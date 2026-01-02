@@ -24,3 +24,7 @@ Invoke-WebRequest -Method Post -Uri "http://localhost:5678/webhook/ai-bot" -Cont
 ![Example 1](screenshots/shot1.png)
 ![Example 2](screenshots/shot2.png)
 ![Example 3](screenshots/shot3.png)
+
+## n8n workflow
+
+![n8n workflow](screenshots/n8n.png)
