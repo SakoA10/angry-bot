@@ -18,3 +18,9 @@ n8n returns `{ "reply": "..." }` and the bot replies in Discord.
 ## Test webhook
 
 Invoke-WebRequest -Method Post -Uri "http://localhost:5678/webhook/ai-bot" -ContentType "application/json" -Body '{"text":"hello"}' -UseBasicParsing | Select-Object -ExpandProperty Content
+
+## Screenshots
+
+![Example 1](screenshots/shot1.png)
+![Example 2](screenshots/shot2.png)
+![Example 3](screenshots/shot3.png)
